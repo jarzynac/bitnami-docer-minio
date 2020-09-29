@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/KrzysztofNiemiec/ac673f97-f4f0-4836-910c-b026c59afe7f/f9962ba8-d67b-4d9c-a11f-761b91b63dcb/_apis/work/boardbadge/d01892ff-8139-4f5d-9273-a25ee71ee410)](https://dev.azure.com/KrzysztofNiemiec/ac673f97-f4f0-4836-910c-b026c59afe7f/_boards/board/t/f9962ba8-d67b-4d9c-a11f-761b91b63dcb/Microsoft.RequirementCategory)
 # bitnami-docer-minio
